@@ -6,6 +6,12 @@ A Java Swing-based desktop application for managing employee records with login 
 
 ---
 
+## 🎬 Splash Screen (Intro Page)
+
+This is the starting screen of the application that appears for a few seconds before the login page, providing a smooth user experience.
+
+![image](https://github.com/itsnikhil007/Employee_Management_System/blob/76923e195a901dbaaf8009a9ce90b27caa605423/EMPLOYEE_MANAGEMENT_SYSTEM/PROJECT_PICS/frontPic.png)
+
 ## 🔐 Login Page
 
 The system starts with a secure login screen where users must enter valid credentials to access the application.
